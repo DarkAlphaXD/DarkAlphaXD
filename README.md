@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darkalphaxteam&label=Profile%20views&color=0e75b6&style=flat" alt="darkalphaxteam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DarkAlphaXD&label=Profile%20views&color=0e75b6&style=flat" alt="DarkAlphaXD" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DarkAlphaXD" alt="DarkAlphaXD" /></a> </p>
 

@@ -4,15 +4,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darkalphaxteam&label=Profile%20views&color=0e75b6&style=flat" alt="darkalphaxteam" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkalphaxteam" alt="darkalphaxteam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DarkAlphaXD" alt="DarkAlphaXD" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/GmThinura" target="blank"><img src="https://img.shields.io/twitter/follow/GmThinura?logo=twitter&style=for-the-badge" alt="GmThinura" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🔝 I'm 21 Years Old....
+- 🔝 I'm 22 years old....
 
-- 👨‍💻 All of my projects are available at [https://github.com/darkalphaxteam](https://github.com/darkalphaxteam)
+- 👨‍💻 All of my projects are available at [https://github.com/DarkAlphaXD](https://github.com/darkalphaxteam)
 
 - 📫 How to reach me **thinuragm@gmail.com**
 
